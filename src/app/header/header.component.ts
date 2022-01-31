@@ -5,5 +5,5 @@ import { Component } from "@angular/core";
     templateUrl: './header.Component.html'
 })
 export class HeaderComponent{
-
+    collapsed = true;
 }
